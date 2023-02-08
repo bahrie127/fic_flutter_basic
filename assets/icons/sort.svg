@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="9.3" viewBox="0 0 14 9.3">
+  <g id="sort" transform="translate(0 -76.5)">
+    <g id="sort-2" data-name="sort" transform="translate(0 76.5)">
+      <g id="Rectangle_36" data-name="Rectangle 36" fill="#fff" stroke="#363636" stroke-width="1">
+        <rect width="14" height="1.5" rx="0.75" stroke="none"/>
+        <rect x="0.5" y="0.5" width="13" height="0.5" rx="0.25" fill="none"/>
+      </g>
+      <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(0 3.9)" fill="#fff" stroke="#363636" stroke-width="1">
+        <rect width="9.5" height="1.5" rx="0.75" stroke="none"/>
+        <rect x="0.5" y="0.5" width="8.5" height="0.5" rx="0.25" fill="none"/>
+      </g>
+      <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(0 7.8)" fill="#fff" stroke="#363636" stroke-width="1">
+        <rect width="4.5" height="1.5" rx="0.75" stroke="none"/>
+        <rect x="0.5" y="0.5" width="3.5" height="0.5" rx="0.25" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
