@@ -28,7 +28,7 @@ class _TabbarWidgetState extends State<TabbarWidget>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Tabbar"),
+        title: const Text("FIC - Tabbar"),
         bottom: TabBar(
           controller: _tabController,
           tabs: const [

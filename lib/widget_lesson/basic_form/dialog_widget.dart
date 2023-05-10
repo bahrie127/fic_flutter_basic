@@ -12,7 +12,7 @@ class _DialogWigetState extends State<DialogWiget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Dialog & Bottomsheet"),
+        title: const Text("FIC - Dialog & Bottomsheet"),
       ),
       body: Container(
         padding: const EdgeInsets.all(10.0),

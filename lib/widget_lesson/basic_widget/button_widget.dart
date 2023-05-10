@@ -7,7 +7,7 @@ class ButtonWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Button"),
+        title: const Text("FIC - Button"),
         actions: const [],
       ),
       body: Container(

@@ -15,7 +15,7 @@ class _NavigationPushState extends State<NavigationPush> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - navigation push"),
+        title: const Text("FIC - navigation push"),
       ),
       body: Container(
         padding: const EdgeInsets.all(10.0),

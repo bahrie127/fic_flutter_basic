@@ -7,7 +7,7 @@ class IconWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Icon"),
+        title: const Text("FIC - Icon"),
       ),
       body: Container(
         padding: const EdgeInsets.all(10.0),

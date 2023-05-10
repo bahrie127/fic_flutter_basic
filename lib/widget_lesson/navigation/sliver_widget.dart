@@ -15,7 +15,7 @@ class _SliverWidgetState extends State<SliverWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Sliver"),
+        title: const Text("FIC - Sliver"),
         actions: const [],
       ),
       body: CustomScrollView(

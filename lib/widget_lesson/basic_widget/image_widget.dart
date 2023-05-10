@@ -7,7 +7,7 @@ class ImageWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Images"),
+        title: const Text("FIC - Images"),
         actions: const [],
       ),
       body: Container(

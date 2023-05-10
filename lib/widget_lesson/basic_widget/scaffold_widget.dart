@@ -8,7 +8,7 @@ class ScaffoldWidget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: const Text("Binar - Scaffold, Appbar"),
+        title: const Text("FIC - Scaffold, Appbar"),
       ),
       body: const Center(
         child: Text('You have pressed the button 0 times.'),

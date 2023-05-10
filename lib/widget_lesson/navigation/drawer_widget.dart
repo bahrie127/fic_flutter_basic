@@ -12,7 +12,7 @@ class _DrawerWidgetState extends State<DrawerWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Drawer"),
+        title: const Text("FIC - Drawer"),
         actions: const [],
       ),
       endDrawer: Drawer(
@@ -29,13 +29,13 @@ class _DrawerWidgetState extends State<DrawerWidget> {
                   ),
                   decoration: BoxDecoration(color: Colors.grey[200]),
                   accountName: const Text(
-                    'Sabrina',
+                    'Rozak',
                     style: TextStyle(
                       color: Colors.black,
                     ),
                   ),
                   accountEmail: const Text(
-                    'sabrina.dev@gmail.com',
+                    'rozak.dev@gmail.com',
                     style: TextStyle(
                       color: Colors.black,
                     ),

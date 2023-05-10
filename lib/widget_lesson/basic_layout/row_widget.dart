@@ -7,7 +7,7 @@ class RowWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Row"),
+        title: const Text("FIC - Row"),
       ),
       body: Container(
         padding: const EdgeInsets.all(10.0),

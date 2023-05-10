@@ -7,7 +7,7 @@ class ColumnWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Column"),
+        title: const Text("FIC - Column"),
       ),
       body: Container(
         padding: const EdgeInsets.all(10.0),

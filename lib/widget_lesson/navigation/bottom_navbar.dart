@@ -46,7 +46,7 @@ class _BottomNavbarWidgetState extends State<BottomNavbarWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Bottom Navbar"),
+        title: const Text("FIC - Bottom Navbar"),
         actions: const [],
       ),
       body: Center(

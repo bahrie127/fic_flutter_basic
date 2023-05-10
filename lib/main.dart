@@ -1,4 +1,28 @@
 import 'package:flutter/material.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_form/dialog_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_form/form_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/aspectratio_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/center_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/column_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/expanded_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/gridview_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/listview_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/padding_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/sizedbox_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/stack_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_layout/wrap_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_widget/button_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_widget/circle_avatar_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_widget/container_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_widget/icon_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_widget/image_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/basic_widget/text_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/navigation/bottom_navbar.dart';
+import 'package:project_flutter_pertama/widget_lesson/navigation/drawer_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/navigation/navigation_pop.dart';
+import 'package:project_flutter_pertama/widget_lesson/navigation/navigation_push.dart';
+import 'package:project_flutter_pertama/widget_lesson/navigation/sliver_widget.dart';
+import 'package:project_flutter_pertama/widget_lesson/navigation/tabbar_widget.dart';
 
 import 'widget_lesson/basic_layout/row_widget.dart';
 
@@ -16,7 +40,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const RowWidget(),
+      home: SliverWidget(),
       // Scaffold(
       //   appBar: AppBar(
       //     title: const Text('Jago Flutter'),

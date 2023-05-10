@@ -13,7 +13,7 @@ class _StatelessStatefulWidgetState extends State<StatelessStatefulWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - stateless stateful"),
+        title: const Text("FIC - stateless stateful"),
         actions: const [],
       ),
       body: SingleChildScrollView(
@@ -39,7 +39,7 @@ class ChangeTextWidget extends StatefulWidget {
 }
 
 class _ChangeTextWidgetState extends State<ChangeTextWidget> {
-  String text = 'Binar';
+  String text = 'FIC';
   @override
   Widget build(BuildContext context) {
     return Column(

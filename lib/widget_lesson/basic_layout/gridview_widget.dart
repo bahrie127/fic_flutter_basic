@@ -7,7 +7,7 @@ class GridViewWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - GriView"),
+        title: const Text("FIC - GriView"),
         actions: const [],
       ),
       body: Container(

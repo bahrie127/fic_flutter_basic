@@ -7,7 +7,7 @@ class ContainerWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Container"),
+        title: const Text("FIC - Container"),
       ),
       body: Container(
         height: 300,

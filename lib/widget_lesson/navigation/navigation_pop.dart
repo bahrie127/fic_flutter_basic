@@ -12,7 +12,7 @@ class _NavigationPopState extends State<NavigationPop> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Binar - Navigation Pop"),
+        title: const Text("FIC - Navigation Pop"),
       ),
       body: Container(
         padding: const EdgeInsets.all(10.0),
