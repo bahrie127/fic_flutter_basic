@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project_flutter_pertama/meet_2/ch4topic2/basic_layout/column_widget.dart';
-import 'package:project_flutter_pertama/meet_2/ch4topic2/basic_widget/text_widget.dart';
+
+import 'widget_lesson/basic_layout/row_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ColumnWidget(),
+      home: const RowWidget(),
       // Scaffold(
       //   appBar: AppBar(
       //     title: const Text('Jago Flutter'),
